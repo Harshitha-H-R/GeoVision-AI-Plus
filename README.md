@@ -108,3 +108,5 @@ Presidency University, Bengaluru
 ---
 
 ⭐ *GeoVision AI+ aims to transform drone data into actionable governance intelligence for smarter rural development.*
+
+## 🖼️ System Diagram
